@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\amdam_000\.gradle\caches\modules-2\files-2.1\io.realm\realm-android\0.87.4\97d167507fcf75bc96d2123af0f3b1b5614ca3b7\realm-android-0.87.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97d167507fcf75bc96d2123af0f3b1b5614ca3b7">
+        <dex dex="C:\Android_workSpace\Sample\Application\build\intermediates\pre-dexed\debug\realm-android-0.87.4-266640f8ab2b53d9f55ef9ec2f583561c40da341.jar" />
+    </item>
+
+</items>
